@@ -86,6 +86,12 @@ namespace WinFormsApp1
                     MessageBox.Show("Hard Questions");
                 }
 
+                // re-enable disabled buttons
+                answerBtn1.Enabled = true;
+                answerBtn2.Enabled = true;
+                answerBtn3.Enabled = true;
+                answerBtn4.Enabled = true;
+                // give buttons transparent color
                 answerBtn1.BackColor = Color.Transparent;
                 answerBtn2.BackColor = Color.Transparent;
                 answerBtn3.BackColor = Color.Transparent;
@@ -99,6 +105,12 @@ namespace WinFormsApp1
                 loop++;
                 askQuestion(questionNumber);
 
+                // re-enable disabled buttons
+                answerBtn1.Enabled = true;
+                answerBtn2.Enabled = true;
+                answerBtn3.Enabled = true;
+                answerBtn4.Enabled = true;
+                // give buttons transparent color
                 answerBtn1.BackColor = Color.Transparent;
                 answerBtn2.BackColor = Color.Transparent;
                 answerBtn3.BackColor = Color.Transparent;
@@ -110,18 +122,22 @@ namespace WinFormsApp1
             {
                 if (wrongAnswer1 == 1 || wrongAnswer2 == 1)
                 {
+                    answerBtn1.Enabled = false;
                     answerBtn1.BackColor = Color.Red;
                 }
                 if (wrongAnswer1 == 2 || wrongAnswer2 == 2)
                 {
+                    answerBtn2.Enabled = false;
                     answerBtn2.BackColor = Color.Red;
                 }
                 if (wrongAnswer1 == 3 || wrongAnswer2 == 3)
                 {
+                    answerBtn3.Enabled = false;
                     answerBtn3.BackColor = Color.Red;
                 }
                 if(wrongAnswer1 == 4 || wrongAnswer2 == 4)
                 {
+                    answerBtn4.Enabled = false;
                     answerBtn4.BackColor = Color.Red;
                 }
 
