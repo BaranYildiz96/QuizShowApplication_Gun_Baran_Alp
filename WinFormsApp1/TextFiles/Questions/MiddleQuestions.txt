@@ -1,0 +1,6 @@
+﻿[01],"Orta zorluk soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[02],"Orta zorluk soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[03],"Orta zorluk soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[04],"Orta zorluk soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[05],"Orta zorluk soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[06],"Orta zorluk soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"

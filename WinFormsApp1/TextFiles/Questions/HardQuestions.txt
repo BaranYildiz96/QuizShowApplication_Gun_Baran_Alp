@@ -1,0 +1,6 @@
+﻿[01],"Zor soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[02],"Zor soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[03],"Zor soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[04],"Zor soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[05],"Zor soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
+[06],"Zor soru örneği","A:Cevap1","B:Cevap2","C:Cevap3","D:Cevap4"
